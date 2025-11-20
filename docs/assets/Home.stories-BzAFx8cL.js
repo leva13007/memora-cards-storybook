@@ -1,3 +1,0 @@
-import{j as e,N as t}from"./iframe-Blp878KL.js";import{C as r}from"./Container-TRQm39Ac.js";import{H as a}from"./H1-DOxsXt_i.js";import"./preload-helper-PPVm8Dsz.js";const s=()=>e.jsxs(e.Fragment,{children:[e.jsx(r,{children:e.jsx(a,{children:"Home Page"})}),e.jsx(r,{fluid:!0,children:e.jsx(t,{to:"/decks",children:"Go to Decks"})})]});s.__docgenInfo={description:"",methods:[],displayName:"Home"};const i={title:"Page/Home",component:s,tags:["autodocs"],decorators:[]},o={args:{}};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
-  args: {}
-}`,...o.parameters?.docs?.source}}};const p=["Default"];export{o as Default,p as __namedExportsOrder,i as default};
