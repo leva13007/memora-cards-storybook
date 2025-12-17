@@ -1,0 +1,1 @@
+import{j as o,L as r}from"./iframe-lO63I4Wk.js";import{c as _}from"./index-YGcI_iuS.js";const c="_link_1ivj0_1",d="___hovered_1ivj0_10",k={link:c,__hovered:d},j=({content:s,className:t,style:e,to:a,"aria-label":i,"data-testid":n="link"})=>{const l=_(k,"link",...t||[]);return o.jsx(r,{to:a,style:e,className:l,"data-testid":n,"aria-label":i,children:s})};export{j as T};

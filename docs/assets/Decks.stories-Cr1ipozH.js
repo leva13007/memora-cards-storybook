@@ -1,0 +1,3 @@
+import{j as e}from"./iframe-lO63I4Wk.js";import{H as r}from"./H1-CZitxgs8.js";import{T as o}from"./TextLink-BDOFzsh2.js";import"./preload-helper-PPVm8Dsz.js";import"./index-YGcI_iuS.js";const s=()=>e.jsxs(e.Fragment,{children:[e.jsx(r,{children:"Decks Page"}),e.jsx(o,{"aria-label":"some text",to:"/",content:"Go to Home"})]}),p={title:"Page/Decks",component:s,tags:["autodocs"],decorators:[]},t={args:{}};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:`{
+  args: {}
+}`,...t.parameters?.docs?.source}}};const d=["Default"];export{t as Default,d as __namedExportsOrder,p as default};
