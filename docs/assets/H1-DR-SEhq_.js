@@ -1,0 +1,1 @@
+import{j as c}from"./iframe-lQxQgCuX.js";import{c as r}from"./index-YGcI_iuS.js";const h="_h1_1dha7_1",n={h1:h},m=({children:s,className:t,style:a,"data-testid":o="heading"})=>{const e=r(n,"h1",...t||[]);return c.jsx("h1",{style:a,className:e,"data-testid":o,children:s})};export{m as H};

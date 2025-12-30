@@ -1,0 +1,1 @@
+import{j as r}from"./iframe-lQxQgCuX.js";import{c}from"./index-YGcI_iuS.js";const a="_container_1bm4b_1",e={container:a,"container-fluid":"_container-fluid_1bm4b_22"},_=({children:n,className:o,style:t,fluid:s})=>{const i=c(e,"container",...o||[],s?"container-fluid":void 0);return r.jsx("div",{style:t,className:i,children:n})};export{_ as C};
